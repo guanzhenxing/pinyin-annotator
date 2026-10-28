@@ -1,6 +1,6 @@
 {
   "repository": "guanzhenxing/pinyin-annotator",
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "points": [
     {
       "date": "2026-09-30",
@@ -112,6 +112,10 @@
     },
     {
       "date": "2026-10-27",
+      "stars": 0
+    },
+    {
+      "date": "2026-10-28",
       "stars": 0
     }
   ]
